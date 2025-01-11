@@ -61,7 +61,7 @@ PyTorch 2.0.1 + cu117
 
 #### 2. Comparison with State-of-the-arts
 <p align="middle">
-<img src="sources/table1.png" alt="artifact issue" width="1200px">
+<img src="sources/Table1.png" alt="artifact issue" width="1200px">
 </p>
 
 <!-- ## Citation 
