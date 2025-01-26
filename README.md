@@ -4,7 +4,7 @@ This paper pioneers exploring Mamba, a new paradigm for long-range dependency mo
 ## News
 
 * **If you find this work helpful, please give us a :star2: to receive the updation !**
-* **` Jan. 11th, 2025`:** DM-Mamba is underReview.
+* **` Jan. 31th, 2025`:** DM-Mamba is underReview.
 * **We are sorting the code** 🔥🔥🔥
 
 ## Overview
