@@ -1,4 +1,4 @@
-# [UnderReview] DM-Mamba: Dual-domain Multi-scale Mamba for MRI reconstruction [![arXiv](https://img.shields.io/badge/arXiv-2303.02506-b31b1b.svg)](https://arxiv.org/abs/2501.08163)
+# [UnderReview] DM-Mamba: Dual-domain Multi-scale Mamba for MRI reconstruction
 This paper pioneers exploring Mamba, a new paradigm for long-range dependency modeling with linear complexity, for efficient and effective MRI reconstruction. 
 
 ## News
