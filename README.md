@@ -1,4 +1,4 @@
-# [UnderReview] DM-Mamba: Dual-domain Multi-scale Mamba for MRI reconstruction
+# [UnderReview] DH-Mamba: Exploring dual-domain hierarchical state space models for MRI reconstruction
 This paper pioneers exploring Mamba, a new paradigm for long-range dependency modeling with linear complexity, for efficient and effective MRI reconstruction. 
 
 ## News
